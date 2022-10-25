@@ -1,0 +1,4 @@
+*.pem
+media/
+logs/
+my_settings.py

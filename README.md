@@ -89,14 +89,3 @@ PyeonTaekUniv.
   </tr>
 
  </table>
-|변수|타입|설명|
-|------|---|---|
-|DID|<span style="background-color:#fff5b1">Integer</span>|드론아이디|
-|TOT|Integer|이륙후 출발시간|
-|Flight|Boolean|이륙시 1, 착륙시 0|
-|landing|Boolean|!Flight|
-|Temperature|Float||
-|Pressure|Float||
-|Altitude|Float||
-|RangeHeight|Float|시중고도|
-|enc_key|varchar|사전에 공유된 암호키|

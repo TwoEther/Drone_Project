@@ -25,8 +25,8 @@ PyeonTaekUniv.
 
 <h3> Summary </h3>
 <p>
- 본 프로젝트는 드론의 정보를 MySQL 서버에 암호화 하여 저장하는 정보관제센터와 이 정보를 복호화하여 활용하는 정보활용센터로 구성된다,
- 이 과정을 Python, Django, MySQL 등을 사용하여 구현하였다.</p>
+ 본 프로젝트는 드론의 정보를 MySQL 서버에 암호화 하여 저장하는 정보관제센터와 이 정보를 복호화하여 활용하는 정보활용센터로 구성됩니다,
+ 이 과정을 Python, Django, MySQL 등을 사용하여 구현하였습니다.</p>
  
 <h3> DB table </h3>
 <p>enc_table</p>

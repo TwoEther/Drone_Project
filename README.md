@@ -2,7 +2,7 @@
 <h2> CISC-W 2022 Winter Academic Contest </h2>
 
 <h3> Team </h3>
-평택대학교
+평택대학교 정보통신학과 통합 IOD 연구팀
 
 <h3> Stack </h3>
 <ul>
